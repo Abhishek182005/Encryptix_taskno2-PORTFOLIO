@@ -58,6 +58,21 @@ section {
     color: #555;
 }
 
+.mover1 {
+    background-color: black;
+    font-size: 1.2rem;
+   color: #32cd32;
+text-shadow:
+  0 0 7px #32cd32,
+  0 0 10px #32cd32,
+  0 0 21px #32cd32,
+  0 0 42px #2ecc71,
+  0 0 82px #2ecc71,
+  0 0 92px #2ecc71,
+  0 0 102px #2ecc71,
+  0 0 151px #2ecc71; 
+}
+
 .container, .container1, .container2, .container3 {
     max-width: 1200px;
     margin: 1rem auto;
