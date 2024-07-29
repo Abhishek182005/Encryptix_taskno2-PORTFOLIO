@@ -1,5 +1,5 @@
 # PORTFOLIO
-It is the 2nd task which was done in my internship at Encryptix. Here i build my personal portfolio where<br>
+It is the  my personal portfolio <br>
 i have highlighted my skills in which i mam proficient. Also i have added some new features<br>
 like downloadable links, stopping of marque text over hover, and clean table implementation.
 
